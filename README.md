@@ -27,4 +27,5 @@ Usage: ./xmackey --lockfile /tmp/xmackey.lock --device-id 11 --swap 0,2 --releas
 ## Example
 
 `xmackey --lockfile /tmp/xmackey.lock --device-id 11 --swap 0,2 --map "1 2 3 4 5 6 7" --sleep 2`
+
 Will swap buttons 1 and 3 in the original mapping (1 2 3 4 5 6 7) of device 11 for 2 seconds.
